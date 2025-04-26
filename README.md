@@ -24,7 +24,7 @@ This project uses PySpark and Spark MLlib to model arrest likelihood based on ti
 ## Results
 - Accuracy: **87.7%**
 - F1 Score: **0.86**
-- ROC-AUC: High (exact value optional)
+- ROC-AUC: High 
 
 ## Power BI Dashboard
 Includes:
